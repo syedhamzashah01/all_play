@@ -1,4 +1,4 @@
-# all_app
+# Soundwave
 
 A new Flutter project.
 
